@@ -1,0 +1,2 @@
+# MSC_Eafit
+Productos de formación de la MAESTRÍA EN CIENCIAS DE LOS DATOS Y ANALÍTICA-EAFIT 2023-2024
