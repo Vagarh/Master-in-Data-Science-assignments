@@ -1,4 +1,6 @@
 # MSC_Eafit
+Este repositorio almacena los diferentes cuadernos de clase, laboratorios y talleres realizados durante la **Maestría en Ciencias de los Datos y Analítica** de la Universidad EAFIT.
+
 Productos de formación de la MAESTRÍA EN CIENCIAS DE LOS DATOS Y ANALÍTICA-EAFIT 2023-2024
 Objetivo
 Desarrollar competencias para la investigación interdisciplinaria, básica y aplicada en áreas donde las ciencias de los datos y la analítica, sean modelos transversales y eficientes para la innovación y el aprendizaje colaborativo.
@@ -37,3 +39,18 @@ El egresado tendrá la capacidad analítica, procedimental, crítica y comunicac
 
 Egresado con perfil profesional:
 El egresado tendrá la capacidad analítica, procedimental, crítica y comunicacional para resolver preguntas aplicadas a través de datos.
+
+## Uso
+1. Clone el repositorio.
+2. Cree un entorno de Python e instale las dependencias:
+   ```bash
+   conda create -n msc-eafit python=3.9
+   conda activate msc-eafit
+   pip install -r requirements.txt
+   ```
+3. Abra los archivos `.ipynb` en Jupyter o Google Colab y ejecute las celdas.
+
+## Contenido
+- Laboratorios de procesamiento de datos y NLP
+- Talleres y exámenes de Álgebra y Estadística
+- Ejemplos de modelación con PySpark y scikit-learn
