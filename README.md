@@ -51,6 +51,13 @@ El egresado tendrá la capacidad analítica, procedimental, crítica y comunicac
 3. Abra los archivos `.ipynb` en Jupyter o Google Colab y ejecute las celdas.
 
 ## Contenido
-- Laboratorios de procesamiento de datos y NLP
-- Talleres y exámenes de Álgebra y Estadística
-- Ejemplos de modelación con PySpark y scikit-learn
+Este repositorio está organizado en las siguientes carpetas temáticas, cada una con su propio `README.md` para más detalles:
+
+*   **`Algebra/`**: Contiene talleres y exámenes enfocados en la aplicación de conceptos de álgebra lineal a problemas de ciencia de los datos.
+*   **`Analisis_de_Datos/`**: Incluye laboratorios prácticos sobre técnicas de análisis y preparación de datos, preprocesamiento de texto y análisis estadístico aplicado a casos de negocio.
+*   **`Estadistica/`**: Explora los principios fundamentales de la probabilidad y la estadística inferencial.
+*   **`Finanzas/`**: Dedicado al análisis y modelado de series de tiempo financieras, utilizando modelos estadísticos y de aprendizaje automático.
+*   **`Machine_Learning/`**: Cubre algoritmos y conceptos fundamentales de Machine Learning, desde modelos lineales hasta redes neuronales profundas y Transfer Learning.
+*   **`NLP/`**: Contiene notebooks sobre Procesamiento de Lenguaje Natural, desde preprocesamiento de texto hasta modelado de temas y predicción de emociones con Transformers.
+*   **`PySpark/`**: Enfocado en el uso de Apache Spark con Python para el procesamiento y análisis de grandes volúmenes de datos, con énfasis en NLP.
+*   **`Web_Scraping/`**: Demuestra técnicas de extracción de datos de la web, incluyendo la adquisición de información meteorológica y su integración con servicios en la nube.
